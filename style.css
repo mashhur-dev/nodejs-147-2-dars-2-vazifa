@@ -1,0 +1,29 @@
+#hay {
+    gap: 20px;
+    padding-bottom: 6px;
+    padding-top: 6px;
+}
+
+#icon {
+    padding-top: 9px;
+    padding-right: 20px;
+}
+
+#icon2 {
+    padding-top: 9px;
+}
+
+#apple {
+    padding-top: 9px;
+}
+
+#learn {
+    text-align: center;
+    margin-top: 15px;
+    text-decoration: none;
+}
+
+#divs {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
